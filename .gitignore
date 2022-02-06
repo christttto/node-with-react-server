@@ -1,3 +1,4 @@
 node_modules
 memo
-client_secret_8496072272-0t1p4eatjavugfsb3aeg14knd4a465re.apps.googleusercontent.com.json
+/secret
+.DS_Store
